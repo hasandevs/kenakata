@@ -1,7 +1,8 @@
-package com.hasan.kenakata
+package com.hasan.kenakata.views.stater
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.hasan.kenakata.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
