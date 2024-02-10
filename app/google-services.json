@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39597954023",
+    "project_id": "kenakata-a4918",
+    "storage_bucket": "kenakata-a4918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39597954023:android:678c3f6db5b4eda5e16342",
+        "android_client_info": {
+          "package_name": "com.hasan.kenakata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4kHERyKg9MrvLfKXeOW1ldW0jasDWuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
